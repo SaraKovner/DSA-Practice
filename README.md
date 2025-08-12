@@ -1,35 +1,38 @@
-# תרגולי אלגוריתמים ומבני נתונים ב־C ו־C++
+# Algorithms and Data Structures Practice in C and C++
 
-מאגר פתרונות לשאלות שפתרתי בעצמי או יחד עם שותפה ללימודים, במסגרת בוטקמפ לפיתוח תוכנה.  
-הפתרונות נכתבו בשפות C ו־C++, לפי נושאים.
+A repository of solutions to problems I solved myself or together with a study partner, as part of a bootcamp.  
+The solutions are written in C and C++ languages, organized by topics.
 
-## נושאים מכוסים:
-- **מערכים (Arrays)** - חיפוש אלמנט רוב, תת-מערך עם סכום מקסימלי, פרמוטציה לקסיקוגרפית
-- **רשימות מקושרות (Linked Lists)** - חיבור מספרים, הפיכת תת-רשימה, סיבוב רשימה
-- **מחרוזות (Strings)** - בדיקת שזירה, פענוח מחרוזת ספרות, רצף Count-and-Say
-- **תכנות דינמי (Dynamic Programming)** - מרחק עריכה, רווח מקסימלי ממניות
-- **אלגוריתמים מתמטיים (Mathematical Algorithms)** - חזקה, חילוק ללא כפל, הפיכת ספרות, בעיית כדי המים
-- **חיפוש ומיון (Searching & Sorting)** - חיפוש במערך מסובב
-- **טבלאות גיבוב (Hash Tables)** - מוכן לפתרונות עתידיים
+## Covered Topics:
+- **Arrays (9 problems)** - Two Sum, Product Except Self, Majority Element, Peak Element, Triplets Sum, Subarray problems
+- **Linked Lists (4 problems)** - Adding numbers, reversing sublist, rotating list, swapping nodes
+- **Strings (5 problems)** - Roman numerals, fraction conversion, expression evaluation, digit decoding, Count-and-Say
+- **Dynamic Programming (6 problems)** - Edit distance, stock profit, house robber, grid paths, largest square
+- **Mathematical Algorithms (7 problems)** - Power, division, prime counting, bitwise operations, factorials, water jug
+- **Searching & Sorting (2 problems)** - Search in rotated array, find positions in sorted array
+- **Graphs (2 problems)** - Islands counting, course scheduling with topological sort
+- **Trees (1 problem)** - Binary tree right side view
+- **Backtracking (1 problem)** - Valid combinations with sum
+- **Hash Tables** - Ready for future solutions
 
-## דירוג קושי:
-🟢 **Easy** - בעיות בסיסיות, אלגוריתמים פשוטים
-🟡 **Medium** - בעיות בינוניות, דורשות חשיבה אלגוריתמית
-🔴 **Hard** - בעיות מתקדמות, אלגוריתמים מורכבים
+## Difficulty Rating:
+🟢 **Easy** - Basic problems, simple algorithms
+🟡 **Medium** - Intermediate problems, require algorithmic thinking
+🔴 **Hard** - Advanced problems, complex algorithms
 
-💡 **מטרת הריפו:** תרגול, שיפור הבנה, והתנסות במבני נתונים ואלגוריתמים בסיסיים.
+💡 **Repository Purpose:** Practice, improve understanding, and experience with basic data structures and algorithms.
 
-🔗 **מבני הנתונים לקוחים מ:** https://github.com/KamaTechOrg/BTDS
+🔗 **Data structures taken from:** https://github.com/KamaTechOrg/BTDS
 
-## שפות:
-- **C** - מימושים בסיסיים ויעילים
-- **C++** - מוכן להרחבות עתידיות
+## Languages:
+- **C** - Basic and efficient implementations
+- **C++** - Ready for future extensions
 
-## מבנה התקיות:
+## Directory Structure:
 ```
-📁 נושא/
+📁 Topic/
 ├── 📁 C/
-│   └── קבצי .c (עם דירוג קושי 🟢🟡🔴)
+│   └── .c files (with difficulty rating 🟢🟡🔴)
 └── 📁 C++/
-    └── קבצי .cpp (עתידיים)
+    └── .cpp files (future)
 ```
