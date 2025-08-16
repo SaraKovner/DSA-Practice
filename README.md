@@ -16,8 +16,11 @@ The solutions are written in C and C++ languages, organized by topics.
 - **Hash Tables** - Ready for future solutions
 
 ## Difficulty Rating:
+
 🟢 **Easy** - Basic problems, simple algorithms
+
 🟡 **Medium** - Intermediate problems, require algorithmic thinking
+
 🔴 **Hard** - Advanced problems, complex algorithms
 
 💡 **Repository Purpose:** Practice, improve understanding, and experience with basic data structures and algorithms.
