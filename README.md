@@ -4,14 +4,14 @@ A repository of solutions to problems I solved myself or together with a study p
 The solutions are written in C and C++ languages, organized by topics.
 
 ## Covered Topics:
-- **Arrays (9 problems)** - Two Sum, Product Except Self, Majority Element, Peak Element, Triplets Sum, Subarray problems
-- **Linked Lists (4 problems)** - Adding numbers, reversing sublist, rotating list, swapping nodes
-- **Strings (5 problems)** - Roman numerals, fraction conversion, expression evaluation, digit decoding, Count-and-Say
+- **Arrays (11 problems)** - Two Sum, Product Except Self, Majority Element, Peak Element, Triplets Sum, Quadruplets Sum, Wiggle Sort, Subarray problems
+- **Linked Lists (6 problems)** - Adding numbers, cycle detection, reversing sublist, rotating list, swapping nodes, odd-even grouping
+- **Strings (10 problems)** - Roman numerals, fraction conversion, expression evaluation, digit decoding, Count-and-Say, subsequence check, zigzag pattern, Excel conversion, IP addresses, longest substring
 - **Dynamic Programming (6 problems)** - Edit distance, stock profit, house robber, grid paths, largest square
-- **Mathematical Algorithms (7 problems)** - Power, division, prime counting, bitwise operations, factorials, water jug
-- **Searching & Sorting (2 problems)** - Search in rotated array, find positions in sorted array
-- **Graphs (2 problems)** - Islands counting, course scheduling with topological sort
-- **Trees (1 problem)** - Binary tree right side view
+- **Mathematical Algorithms (8 problems)** - Power, division, prime counting, bitwise operations, factorials, water jug, gas station circuit
+- **Searching & Sorting (4 problems)** - Search in rotated array, find positions in sorted array, median of two arrays, first bad version
+- **Graphs (3 problems)** - Islands counting, course scheduling with topological sort, course completion feasibility
+- **Trees (4 problems)** - Binary tree right side view, BST validation, preorder serialization validation, house robber in tree
 - **Backtracking (1 problem)** - Valid combinations with sum
 - **Hash Tables** - Ready for future solutions
 
