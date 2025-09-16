@@ -1,7 +1,15 @@
 # 🧩 Algorithms and Data Structures Practice in C and C++
 
-A collection of problems and solutions I worked on independently and with a study partner during a coding bootcamp.  
+A collection of problems and solutions developed during an intensive coding bootcamp with professional mentorship and code reviews.  
 The repository demonstrates practice in algorithms and data structures using **C** and **C++**, organized by topic.
+
+**Development Process:**
+- Solutions developed during intensive bootcamp training
+- Code reviewed and approved by professional mentors
+- All solutions tested and validated on coding platforms
+- Passed comprehensive test suites including edge cases
+- Collaborative work with study partners
+- Focus on clean code, optimal algorithms, and comprehensive documentation
 
 ---
 
