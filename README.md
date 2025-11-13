@@ -17,15 +17,15 @@ The repository demonstrates practice in algorithms and data structures using **C
 
 | Topic              | Problems | Examples (selected) |
 |--------------------|----------|---------------------|
-| Arrays             | 22       | Two Sum, Product Except Self, Majority Element, Peak Element, Triplets Sum, Quadruplets Sum, Wiggle Sort, Subarray problems, Arithmetic Subarrays, 3Sum Closest, Unique Element, Rotation Function, Pascal's Triangle, Gray Code, Dutch Flag Sort, Create Maximum Number, Find k-th Permutation, Find Smallest Missing Positive, Minimum Candies |
+| Arrays             | 23       | Two Sum, Product Except Self, Majority Element, Peak Element, Triplets Sum, Quadruplets Sum, Wiggle Sort, Subarray problems, Arithmetic Subarrays, 3Sum Closest, Unique Element, Rotation Function, Pascal's Triangle, Gray Code, Dutch Flag Sort, Create Maximum Number, Find k-th Permutation, Find Smallest Missing Positive, Minimum Candies, Trapping Rain Water |
 | Dynamic Programming| 14       | Edit distance, Stock profit, House robber, Grid paths, Largest square, Unique paths (with/without obstacles), Coin change, Jump game, Wiggle subsequence, Longest Increasing Path in Matrix, Longest Valid Parentheses, Number of Distinct Subsequences |
-| Strings            | 18       | Roman numerals, Fraction conversion, Expression evaluation, Digit decoding, Count-and-Say, Subsequence check, Zigzag pattern, Excel conversion, IP addresses, Longest substring, myAtoi, Palindrome partitioning, Phone letter combinations, Regular Expression Matching, Wildcard Pattern Matching, Bulls and Cows, Password Strength, Minimum Window Substring |
-| Trees              | 10       | Binary tree right side view, BST validation, Preorder serialization validation, House robber in tree, Sorted list to BST, Unique BST count, Root-to-leaf paths, Lowest Common Ancestor, Ways to Form Rooted Tree, Remove Redundant Edge |
+| Strings            | 19       | Roman numerals, Fraction conversion, Expression evaluation, Digit decoding, Count-and-Say, Subsequence check, Zigzag pattern, Excel conversion, IP addresses, Longest substring, myAtoi, Palindrome partitioning, Phone letter combinations, Regular Expression Matching, Wildcard Pattern Matching, Bulls and Cows, Password Strength, Minimum Window Substring, Simplify Path |
+| Trees              | 11       | Binary tree right side view, BST validation, Preorder serialization validation, House robber in tree, Sorted list to BST, Unique BST count, Root-to-leaf paths, Lowest Common Ancestor, Ways to Form Rooted Tree, Remove Redundant Edge, Binary Tree Level Order Traversal II |
 | Mathematical Algos | 12       | Power, Division, Prime counting, Bitwise operations, Factorials, Water jug, Gas station circuit, Bulb switcher, Largest number formation, Alice XOR Game, Chessboard Transform |
-| Linked Lists       | 8        | Adding numbers, Cycle detection, Reversing sublist, Rotating list, Swapping nodes, Odd-even grouping, Insertion sort, Merge k Sorted Lists |
+| Linked Lists       | 9        | Adding numbers, Cycle detection, Reversing sublist, Rotating list, Swapping nodes, Odd-even grouping, Insertion sort, Merge k Sorted Lists, Partition List |
 | Searching & Sorting| 5        | Search in rotated array, Find positions in sorted array, Median of two arrays, First bad version, Rotated array search |
 | Graphs             | 9        | Islands counting, Course scheduling with topological sort, Course completion feasibility, Minimum height trees, Number of Provinces, Restricted Paths in Weighted Graph, Equation Solver, Reconstruct Itinerary, Ways to Arrive at Destination |
-| Backtracking       | 2        | Valid combinations with sum, K-combinations generation |
+| Backtracking       | 4        | Valid combinations with sum, K-combinations generation, Combination Sum II, N-Queens II |
 | Design             | 6        | LRU Cache, Exam Room, My Calendar, Text Editor, Add and Search Words, Data Stream Intervals |
 | Hash Tables        | –        | Ready for future solutions |
 
@@ -33,8 +33,8 @@ The repository demonstrates practice in algorithms and data structures using **C
 
 ## 📊 Summary
 
-- **Total solved problems:** 106  
-- **Difficulty:** 🟢 Easy – 7, 🟡 Medium – 79, 🔴 Hard – 20  
+- **Total solved problems:** 112  
+- **Difficulty:** 🟢 Easy – 7, 🟡 Medium – 83, 🔴 Hard – 22  
 - **Implemented algorithms:** Two Pointers, Binary Search, Sliding Window, Greedy, Dynamic Programming, DFS, Dijkstra, Topological Sort, Backtracking, Boyer-Moore Voting, Kadane's Algorithm, Sieve of Eratosthenes, Fast Exponentiation, GCD Algorithm, Eulerian Path, Hierholzer's Algorithm  
 
 ---
